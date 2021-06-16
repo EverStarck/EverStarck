@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, Ever here 👋
 
-<!--
-**EverStarck/EverStarck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51029456/122140420-d7c8ed00-ce10-11eb-8bdc-bf50df6070a2.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Ever Alejandro and I'm from Mexico 🌮 
+
+I'm a Front-End Junior Developer... hehe 😅
+
+<div align="center">
+  <a href="https://blog.everstarck.com">
+    <img src="https://user-images.githubusercontent.com/51029456/122142335-e1ecea80-ce14-11eb-91b4-de43ce15b745.gif" width="150"/>
+    <br>
+    <strong>Visit my personal website </strong>
+  </a>
+</div>
