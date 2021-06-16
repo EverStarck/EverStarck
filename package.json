@@ -1,0 +1,29 @@
+{
+  "name": "EverStarck",
+  "version": "1.0.0",
+  "description": "EverStarck README GitHub profile",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EverStarck/EverStarck.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "EverStarck thanks to midu.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EverStarck/EverStarck/issues"
+  },
+  "homepage": "https://github.com/EverStarck/EverStarck#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
