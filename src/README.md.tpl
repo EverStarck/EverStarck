@@ -13,17 +13,7 @@ I'm a Front-End Junior Developer... hehe 😅
 ---
 ## [Read my lastest articles in blog.EverStarck.com](https:/blog.everstarck.com)
 
-<style scoped>
-.articles {
-display: flex; gap:5px;
-}
-@media only screen and (max-width: 300px) {
-  .articles {
-    flex-direction: column;
-  }
-}
-</style>
-<section class="articles">
+<section style="display: flex; gap:5px;">
   %{{latest_articles}}%
 </section>
 
