@@ -1,0 +1,28 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  
+  schedule:
+    - cron: "*/1 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '14'
+    - run: npm install
+    - run: npm run update-readme
+    - run: |
+        git config user.name EverStarck
+        git config user.email everstarckone@protonmail.com
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "🔥 [GHActions] Update README with latest info"
+        git push origin main
