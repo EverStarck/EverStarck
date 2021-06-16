@@ -14,22 +14,8 @@ const getLatestArticlesFromBlog = () =>
 
   // create latest articles markdown
   const latestArticlesMarkdown = articles
-    .slice(0, 3)
-    .map(article => {
-      const {title, link} = article
-      let img = article.content.match('src="(.*)" alt') == null ? 'https://user-images.githubusercontent.com/51029456/122140420-d7c8ed00-ce10-11eb-8bdc-bf50df6070a2.png' : article.content.match('src="(.*)" alt')[1]
-
-      let articleHtml = `
-<div style="margin: 0 0 20px 0; width: 100%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
-  <a href='${link}' target='_blank'>
-    <img width='100%' src='${img}' alt='Featured image of ${title}' />
-  </a>
-  <br>
-  <i>${title}</i>
-</div>
-         `
-      return articleHtml
-    })
+    .slice(0, 5)
+    .map(({ title, link }) => `- [${title}](${link})`)
     .join("\n");
 
   // replace all placeholders with info
