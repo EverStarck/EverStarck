@@ -4,7 +4,7 @@ import Parser from "rss-parser";
 const parser = new Parser();
 
 const getLatestArticlesFromBlog = () =>
-  parser.parseURL("https://blog.everstarck.com/index.xml").then((data) => data.items);
+  parser.parseURL("https://blog.everstarck.dev/index.xml").then((data) => data.items);
 
 (async () => {
   const [template, articles] = await Promise.all([

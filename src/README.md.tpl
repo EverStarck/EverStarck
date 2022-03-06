@@ -11,7 +11,7 @@ I am Ever Alejandro and I am from Mexico 🌮. When I was a child, I made the wo
 Then I decided to move to desktop applications, but I thought, "mm, how uncomfortable and inefficient is install an app on all computers, it would be easier to just enter a website and that's it, right? This is how my path on the front-end started. 🎨
 
 ---
-## 📰 My lastest articles in [blog.EverStarck.com](https:/blog.everstarck.com)
+## 📰 [My latests articles](https://blog.everstarck.dev)
 
 %{{latest_articles}}%
 
@@ -19,7 +19,7 @@ Then I decided to move to desktop applications, but I thought, "mm, how uncomfor
 ## 🌐 My websites
 
 <div align="center">
-  <a href="https://everstarck.com">
+  <a href="https://everstarck.dev">
     <img src="https://user-images.githubusercontent.com/51029456/122142335-e1ecea80-ce14-11eb-91b4-de43ce15b745.gif" width="90"/>
     <br>
     <strong>Visit my personal website </strong>
@@ -28,7 +28,7 @@ Then I decided to move to desktop applications, but I thought, "mm, how uncomfor
 <br/>
 
 <div align="center">
-  <a href="https://blog.everstarck.com">
+  <a href="https://blog.everstarck.dev">
     <img src="https://user-images.githubusercontent.com/51029456/122266989-0510ac00-cea0-11eb-813c-ae174e3cdb3f.gif" width="150"/>
     <br>
     <strong>Visit my Blog</strong>
