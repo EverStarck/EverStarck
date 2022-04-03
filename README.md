@@ -13,11 +13,11 @@ Then I decided to move to desktop applications, but I thought, "mm, how uncomfor
 ---
 ## 📰 [My latests articles](https://blog.everstarck.dev)
 
+- [Acerca de EverStarck!](https://blog.everstarck.dev/acerca-de-everstarck/)
 - [Optimización con Caching y Memoization](https://blog.everstarck.dev/p/memoizing/)
 - [Space y Time Complexity](https://blog.everstarck.dev/p/time-complexity/)
 - [Entiende la coerción (y los memes) de JavaScript](https://blog.everstarck.dev/p/coercion/)
 - [SYMBOL - Tipos de Datos Primitivos](https://blog.everstarck.dev/p/symbol/)
-- [Null y Undefined - Tipos de Datos Primitivos](https://blog.everstarck.dev/p/nullundefined/)
 
 
 ## 🌐 My websites
