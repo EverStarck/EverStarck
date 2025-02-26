@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/51029456/122140420-d7c8ed00-ce10-11eb-8bdc-bf50df6070a2.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am Ever Alejandro and I am from Mexico 🌮. When I was a child, I made the worst video games on GameMaker, using his own programming language, GML. (Luckily, now they only live in my memory 😅).
+I am Ever Alvarez and I am from Mexico 🌮. When I was a child, I made the worst video games on GameMaker, using his own programming language, GML. (Luckily, now they only live in my memory 😅).
 
 Then I decided to move to desktop applications, but I thought, "mm, how uncomfortable and inefficient is install an app on all computers, it would be easier to just enter a website and that's it, right? This is how my path on the front-end started. 🎨
 
